@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="CommonForm.Калькулятор" id="83e6331f-fbaa-4baa-9636-ebeb87ad0466" configVersion="2048f29faa96b540be7fd8f69bee9d0600000000"/>
+		<Metadata name="CommonForm.Калькулятор.Form" id="83e6331f-fbaa-4baa-9636-ebeb87ad0466.0" configVersion="a71c6a587a43da40b2d18e22e3d213a900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="d83d490c-4ef0-41b6-9eb6-95c9c918b9c4" configVersion="0bc0e416ce4dba47a9b458212530182700000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="c53b3e19-cef5-4143-bae3-47aa7c8a9618.8" configVersion="fe17260316203d44888d94ca9f5573d900000000"/>
+		<Metadata name="Language.Русский" id="dc21c8f0-f837-4275-b543-f492c0716464" configVersion="129760a893b3db48b2ffd59a6189d92700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
